@@ -1,4 +1,9 @@
-### Hi there 👋
+# Yuri Alves
+
+## Olá 👋
+Tenho 18 anos e estou estudando desenvolvimento web com a **Rocketseat**.<br>
+No momento estou aprendendo HTML, CSS, JavaScipt e Node.js :computer:<br>
+Faço bacharelado em Informática pela Universidade Estadual de Maringá
 
 <!--
 **yuripiresalves/yuripiresalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
