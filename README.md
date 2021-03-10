@@ -1,7 +1,7 @@
 # Yuri Alves
 
 ## Olá 🦊
-Tenho 19 anos e estou estudando desenvolvimento web com o bootcamp Ignite da **Rocketseat**. 🚀<br>
+Tenho 19 anos e estou estudando **ReactJS** com o bootcamp **Ignite** da **Rocketseat**. 🚀<br>
 Faço bacharelado em Informática pela Universidade Estadual de Maringá
 
 <!--
