@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, ReactJS**
 
-- 😜 Fun fact **I like foxes 🦊**
+- 😜 Fun fact: **I like foxes 🦊**
 
 - 👨‍💻 More at [yurialves.dev](https://yurialves.dev)
 
