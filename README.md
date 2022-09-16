@@ -1,8 +1,53 @@
-# Yuri Alves
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Yuri Alves</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuripiresalves&color=yellow" alt="Profile views" /> </p>
 
-## Olá 🦊
-Tenho 19 anos e estou estudando **ReactJS** com o bootcamp **Ignite** da **Rocketseat**. 🚀<br>
-Faço bacharelado em Informática pela Universidade Estadual de Maringá
+- 🔥 Front-End Web Developer
+
+- 💬 Ask me about **JavaScript, HTML, CSS, ReactJS**
+
+- 😜 Fun fact **I like Fox 🦊**
+
+- 👨‍💻 More at [yurialves.dev](https://yurialves.dev)
+
+<br>
+
+## 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+<br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=yuripiresalves&show_icons=true&theme=vision-friendly-dark" alt="yuripiresalves's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuripiresalves&layout=compact&theme=vision-friendly-dark" alt="yuripiresalves's most languages"/>
+</p>
+
+
+<br><br>
+
+<!--
+
+## Contact
+
+<p align="left" style="background:yellow">
+<a href="https://linkedin.com/in/yuripiresalves" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-yuripiresalves-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/yuripa07" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-yuripa07-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
+
+-->
 
 <!--
 **yuripiresalves/yuripiresalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,24 +62,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-<!--
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
-
-# Thiago Marinho
-
-## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação.
-Sou um FullStack Developer :computer:
-
- :rocket:  &nbsp; Estou trabalhando na **Rocketseat**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
- <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados no Netflix
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
 -->
 
